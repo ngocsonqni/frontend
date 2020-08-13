@@ -1,0 +1,111 @@
+body {
+  background-image: url("../../assets/background/bg-bakery-4.png");
+  //height: 900px;
+  //background-size: cover;
+  width: 100%;
+ min-height: 100vh;
+  //background-attachment: fixed;
+  background-color: rgba(238, 159, 31, 0.5) !important;
+  //rgba(238, 159, 31,0.5)!important;
+  //background-size: 100%
+  //color: rgba(181, 62, 58, 1) !important;
+}
+
+.collapse {
+  color: white !important;
+}
+
+nav {
+  background-color: #ee9f1f !important;
+  color: white !important;;
+}
+
+a {
+  color: white !important;;
+}
+
+
+.codeBakery {
+  background-image: url('../../assets/photo/logo.png');
+  background-size: cover;
+  width: 274px;
+  height: 51px;
+  box-shadow: 1px 0px 6px 6px #fff;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.searchInput {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-color: white;
+  background-color: white !important;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  //height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.account {
+  background-color: #ffdd59;
+  border-color: #FCBC53;
+  border-radius: 5px;
+  width: 90%;
+  margin: auto;
+  color: black !important;
+}
+
+.account:hover {
+  background-color: #ffd32a;
+}
+
+.signOut {
+  background-color: gray;
+  border-color: #FCBC53;
+  border-radius: 5px;
+  width: 90%;
+  margin: auto;
+  color: white !important;
+}
+
+.facebook {
+  color: white !important;
+  background-color: #3a57af;
+}
+
+.facebook:hover {
+  background-color: #3c40c6;
+}
+
+.button-user {
+  color: black;
+  border-color: black;
+}
+
+.button-user:hover {
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.modal-content {
+  background-color: rgba(237, 232, 227, 0.8);
+  padding: 11px;
+}
+
+.modal {
+  overflow: auto !important;
+  //margin-top: 80px;
+
+
+}
+
